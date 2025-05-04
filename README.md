@@ -1,5 +1,4 @@
-<p align = "center"><img = scr"https://img.freepik.com/free-vector/cyber-security-concept_53876-90448.jpg?t=st=1746401012~exp=1746404612~hmac=32d5307993154b7d23a60fd5d314853b5e26338beadd1b02c2a2d683f4367fd7&w=996"></p>
-![image](https://github.com/user-attachments/assets/22873f8f-d1d7-40bf-9bf7-ded048a183a1)
+<p align = "center"><img scr = "https://img.freepik.com/free-vector/cyber-security-concept_53876-90448.jpg?t=st=1746401012~exp=1746404612~hmac=32d5307993154b7d23a60fd5d314853b5e26338beadd1b02c2a2d683f4367fd7&w=996"></p>
 
 
 <!--
