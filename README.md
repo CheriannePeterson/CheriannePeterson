@@ -1,4 +1,5 @@
 <p align = "center"><img = scr"https://img.freepik.com/free-vector/cyber-security-concept_53876-90448.jpg?t=st=1746401012~exp=1746404612~hmac=32d5307993154b7d23a60fd5d314853b5e26338beadd1b02c2a2d683f4367fd7&w=996"></p>
+![cyber-security-concept_53876-90448](https://github.com/user-attachments/assets/2a04b82a-c573-4225-88e0-7f5173c14c9f)
 
 <!--
 **CheriannePeterson/CheriannePeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
