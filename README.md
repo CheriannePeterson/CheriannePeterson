@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://img.freepik.com/premium-vector/closed-padlock-digital-background-cyber-security_42077-18526.jpg?w=996" width = "1000" height = "200" alt=""></p>
+<p align = "center"><img src = "https://img.freepik.com/premium-vector/closed-padlock-digital-background-cyber-security_42077-18526.jpg?w=996" width = "1000" height = "300" alt=""></p>
 
 
 <!--
