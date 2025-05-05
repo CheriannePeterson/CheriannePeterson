@@ -9,7 +9,7 @@ I am a full-time student at UCCS pursuing a degree in Computer Science with a mi
 - 📫 How to reach me: www.linkedin.com/in/cherianne-p-821706169
 - ⚡ Fun fact:
  <div align = "center">
-  <a href="www.linkedin.com/in/cherianne-p-821706169" target="_blank">
+  <a href="www.linkedin.com/in/cherianne-p-821706169">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  </div>
