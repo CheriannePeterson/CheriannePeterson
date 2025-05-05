@@ -6,10 +6,5 @@
 I am a full-time student at UCCS pursuing a degree in Computer Science with a minor in Computer Engineering.
 - 🌱 I’m currently learning 
 - 💬 Ask me about 
-- 📫 How to reach me:
-- ⚡ Fun fact: 
-<div align="center">
-  <a href="www.linkedin.com/in/cherianne-p-821706169">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+- 📫 How to reach me: www.linkedin.com/in/cherianne-p-821706169
+- ⚡ Fun fact:
