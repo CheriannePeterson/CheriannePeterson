@@ -4,12 +4,8 @@
 </p>
   
 I am a full-time student at UCCS pursuing a degree in Computer Science with a minor in Computer Engineering.
-- 🌱 I’m currently learning 
-- 💬 Ask me about 
+- 🌱 I’m currently learning abstract problem solving in programming.
+- 💬 Ask me about my projects
 - 📫 How to reach me: www.linkedin.com/in/cherianne-p-821706169
-- ⚡ Fun fact:
- <div align = "center">
-  <a href="www.linkedin.com/in/cherianne-p-821706169">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- </div>
+- ⚡ Fun fact: I like rock climbing, hiking, lifting, and programming (my favorite language is anything C-related).
+
